@@ -1,4 +1,0 @@
-Method,Precision,Recall,F1,TP,FP,FN,TN
-Predefined rule baseline,1.0,1.0,1.0,10,0,0,10
-Isolation Forest,0.769,1.0,0.87,10,3,0,7
-Random Forest,1.0,1.0,1.0,10,0,0,10
