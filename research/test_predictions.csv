@@ -1,0 +1,21 @@
+Synthetic Auction ID,Simulator label,Rule prediction,Isolation Forest prediction,Random Forest prediction
+SIM-000,0,0,1,0
+SIM-005,1,1,1,1
+SIM-010,0,0,0,0
+SIM-015,1,1,1,1
+SIM-020,0,0,0,0
+SIM-025,1,1,1,1
+SIM-030,0,0,0,0
+SIM-035,1,1,1,1
+SIM-040,0,0,0,0
+SIM-045,1,1,1,1
+SIM-050,0,0,1,0
+SIM-055,1,1,1,1
+SIM-060,0,0,0,0
+SIM-065,1,1,1,1
+SIM-070,0,0,0,0
+SIM-075,1,1,1,1
+SIM-080,0,0,0,0
+SIM-085,1,1,1,1
+SIM-090,0,0,1,0
+SIM-095,1,1,1,1
